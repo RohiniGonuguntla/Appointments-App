@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.appointment-item {
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  display: flex;
+  padding: 10px;
+  margin: 15px;
+}
+.star-button {
+  background-color: transparent;
+  border-width: 0px;
+  width: 25px;
+  height: 35px;
+}
+.appointment-title {
+  color: #171f46;
+  font-family: Roboto;
+}
